@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">ZeroWasteFinalVersion1.0</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="Option_1">Complain</string>
+    <string name="Option_2">Request</string>
+    <string name="Option_3">Map</string>
+    <string name="Option_4">Game</string>
 </resources>
